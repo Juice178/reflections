@@ -1,0 +1,11 @@
+Question:
+What happens when you initialize a repository? Why do you need to do it?
+A. It creates a git repository. You need to do it because it track of changes of
+some files and it makes it easier to find a bug and fix it.
+
+Question:
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+A. It is difference in that it is a place where you can put the files you want to
+commit at the same time for logical changes.
+It offers the value that the users can commit the multiple files at the same time.
